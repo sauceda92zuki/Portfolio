@@ -157,6 +157,10 @@ a {
     transform: scale(1.2);
 }
 
+#sql{
+    margin-top: 15px;
+}
+
 h2{
     color: seashell;
 }
