@@ -7,45 +7,34 @@
     
 }
 
-/*This is the text "html" */
+/*This is the text "movie recomendation" */
 .text-above1{
     position: absolute;
     top: 100px;
-    left: 140px;
+    left: 80px;
     color: beige;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 3px solid beige;
     padding: 5px;
 }
 
-/*This is the text "css" */
+/*This is the text "paswor generator" */
 .text-above2{
     position: absolute;
     top: 100px;
-    left: 480px;
+    left: 400px;
     color: beige;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 3px solid beige;
     padding: 5px;
 }
 
-/*This is the text "javascript" */
+/*This is the text "Quiz" */
 .text-above3{
     position: absolute;
     top: 100px;
     left: 780px;
     color:beige;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 3px solid beige;
-    padding: 5px;
-}
-
-/*This is the text "sql" */
-.text-above4{
-    position: absolute;
-    top: 100px;
-    left: 1100px;
-    color: beige;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 3px solid beige;
     padding: 5px;
@@ -152,14 +141,6 @@ a {
     transform: scale(1.2);
 }
 
-#sql:hover{
-    -webkit-transform: scale(1.2);
-    transform: scale(1.2);
-}
-
-#sql{
-    margin-top: 15px;
-}
 
 h2{
     color: seashell;
